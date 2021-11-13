@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an app challange.
-- 🌱 I’m currently learning Scala, HTML, and Python
-- ⚡ Fun fact: Chess enthusiast!
+-  I’m currently working on personal projects
+-  I’m currently learning Scala, HTML, and Python
+-  Fun fact: Chess enthusiast!
 
