@@ -1,7 +1,7 @@
-### Hi there 👋
+### hey!
 
 
--  I’m currently working on personal projects
--  I’m currently learning Scala, HTML, and Python
--  Fun fact: Chess enthusiast!
+-  currently working on personal projects
+-  learning scala, python, and HTML
+-  chess fanatic
 
