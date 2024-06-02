@@ -1,7 +1,7 @@
 ### hello world
 
 
--  currently working on personal projects.
--  learning scala, python, and HTML.
--  chess fanatic.
+-  currently working on individual projects.
+-  learning react and angular.
+-  chess player.
 
