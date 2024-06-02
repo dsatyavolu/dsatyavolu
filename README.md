@@ -3,5 +3,5 @@
 
 -  currently working on individual projects.
 -  learning react and angular.
--  chess player.
+-  coding since middle school.
 
