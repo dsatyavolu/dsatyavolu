@@ -1,4 +1,4 @@
-### Hello World!
+### print("Hello World!")
 
 My name is Dinesh Satyavolu, and I am a rising senior at Triangle Math and Science Academy in Apex, North Carolina.
 
